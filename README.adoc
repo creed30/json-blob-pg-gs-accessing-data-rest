@@ -12,6 +12,10 @@
 :source-highlighter: prettify
 :project_id: gs-accessing-data-rest
 
+This is a forked guide to demo how to configure a spring data repository to use
+the jsonb data type with a database, see the latest commits in the commit history.
+all changes will be made to the complete project folder
+
 This guide walks you through the process of creating an application that accesses
 relational JPA data through a link:/guides/gs/rest-hateoas[hypermedia-based]
 link:/understanding/REST[RESTful] front end.
